@@ -52,7 +52,7 @@
                     android:layout_gravity="end"
                     android:layout_margin="@dimen/_5sdp"
                     android:textSize="@dimen/_13ssp"
-                    app:drawableStart="@drawable/ic_calendar"
+                    android:drawableStart="@drawable/ic_calendar"
                     android:drawablePadding="@dimen/_5sdp"
                     android:visibility="gone"
                     android:text="@{articleDetailViewModel.publishedDate}"
